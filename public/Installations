@@ -1,1 +1,3 @@
+npm create-react-app chat
 
+yarn add axios styled-components react-router-dom
